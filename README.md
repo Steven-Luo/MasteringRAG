@@ -25,11 +25,11 @@
 
 训练集/测试集构建:
 
-[使用RAG技术构建企业级文档问答系统之QA抽取](https://mp.weixin.qq.com/s?__biz=MjM5NTQ3NTg4MQ==&mid=2257496784&idx=1&sn=94a1afc05728f0c7d8cf92004125f392&chksm=a58df21692fa7b00104850fe8dfb287acb78f149df77bff7f7d23cc7d18c3998814f08924d8a&token=2031500795&lang=zh_CN#rd)
+- [使用RAG技术构建企业级文档问答系统之QA抽取](https://mp.weixin.qq.com/s?__biz=MjM5NTQ3NTg4MQ==&mid=2257496784&idx=1&sn=94a1afc05728f0c7d8cf92004125f392&chksm=a58df21692fa7b00104850fe8dfb287acb78f149df77bff7f7d23cc7d18c3998814f08924d8a&token=2031500795&lang=zh_CN#rd)
 
 ## Baseline
 
-[使用RAG技术构建企业级文档问答系统之基础流程](https://mp.weixin.qq.com/s/P_XWrQtOyE1gwnQ0d1Putg)
+- [使用RAG技术构建企业级文档问答系统之基础流程](https://mp.weixin.qq.com/s/P_XWrQtOyE1gwnQ0d1Putg)
 
 ## 检索优化
 
