@@ -21,15 +21,21 @@
 
 # 文章列表：
 
+## 数据预处理
+
 训练集/测试集构建:
 
 [使用RAG技术构建企业级文档问答系统之QA抽取](https://mp.weixin.qq.com/s?__biz=MjM5NTQ3NTg4MQ==&mid=2257496784&idx=1&sn=94a1afc05728f0c7d8cf92004125f392&chksm=a58df21692fa7b00104850fe8dfb287acb78f149df77bff7f7d23cc7d18c3998814f08924d8a&token=2031500795&lang=zh_CN#rd)
 
-Baseline:
+## Baseline
 
 [使用RAG技术构建企业级文档问答系统之基础流程](https://mp.weixin.qq.com/s/P_XWrQtOyE1gwnQ0d1Putg)
 
-评估：
+## 检索优化
+
+- [使用RAG技术构建企业级文档问答系统：检索优化(1)Embedding微调](https://mp.weixin.qq.com/s/C06SXepnw49GC1UtNvpFcA)
+
+## 评估
 
 - [使用RAG技术构建企业级文档问答系统之使用TruLens进行评估](https://mp.weixin.qq.com/s/4SNaZT8sC6LOL-K8TkHgMw)
 - [使用RAG技术构建企业级文档问答系统之使用GPT4进行评估](https://mp.weixin.qq.com/s/332MeDhzAns_t8dvMOgnYQ)
