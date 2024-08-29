@@ -10,7 +10,7 @@
   - 向量模型优化：[使用RAG技术构建企业级文档问答系统：检索优化(1)Embedding微调](https://mp.weixin.qq.com/s/C06SXepnw49GC1UtNvpFcA)
   - Multi Query：[使用RAG技术构建企业级文档问答系统：检索优化(2)Multi Query](https://mp.weixin.qq.com/s/NCsxMqkAQEGSLCxDXU_mkA)
   - RAG Fusion：[使用RAG技术构建企业级文档问答系统：检索优化(3)RAG Fusion](https://mp.weixin.qq.com/s/T-qeEkanLs9XX0oOwdL5_g)
-  - Ensemble
+  - Ensemble: [使用RAG技术构建企业级文档问答系统：检索优化(4)BM25和混合检索](https://mp.weixin.qq.com/s/KFrSqG6mZb0TPgbHlgZ9dA)
   - HyDE
   - Reranker
   - Reranker优化
