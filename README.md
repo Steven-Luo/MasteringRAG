@@ -11,9 +11,9 @@
   - Multi Query：[使用RAG技术构建企业级文档问答系统：检索优化(2)Multi Query](https://mp.weixin.qq.com/s/NCsxMqkAQEGSLCxDXU_mkA)
   - RAG Fusion：[使用RAG技术构建企业级文档问答系统：检索优化(3)RAG Fusion](https://mp.weixin.qq.com/s/T-qeEkanLs9XX0oOwdL5_g)
   - Ensemble: [使用RAG技术构建企业级文档问答系统：检索优化(4)BM25和混合检索](https://mp.weixin.qq.com/s/KFrSqG6mZb0TPgbHlgZ9dA)
+  - Reranker：[使用RAG技术构建企业级文档问答系统：检索优化(5)常用Rerank对比](https://mp.weixin.qq.com/s/It50F1OmYOHNOs0KRFJ0Lg)
+  - Reranker优化：[使用RAG技术构建企业级文档问答系统：检索优化(6) Rerank模型微调](https://mp.weixin.qq.com/s/1revSlQsum5uRF9U_OYRTA)
   - HyDE
-  - Reranker
-  - Reranker优化
 - 文档解析优化
 - 文档切分优化
 - 问答优化
