@@ -14,7 +14,7 @@
   - Reranker：[使用RAG技术构建企业级文档问答系统：检索优化(5)常用Rerank对比](https://mp.weixin.qq.com/s/It50F1OmYOHNOs0KRFJ0Lg)
   - Reranker优化：[使用RAG技术构建企业级文档问答系统：检索优化(6) Rerank模型微调](https://mp.weixin.qq.com/s/1revSlQsum5uRF9U_OYRTA)
   - HyDE：[使用RAG技术构建企业级文档问答系统：检索优化(7)HyDE](https://mp.weixin.qq.com/s/62UWBMV24RDePcGdYAZW_Q)
-  - Step Back
+  - Step-Back Prompting：[使用RAG技术构建企业级文档问答系统：检索优化(8)Step-Back Prompting](https://mp.weixin.qq.com/s/DxK9rUeG_4ZMvD2_oopWZg)
 - 文档解析优化
 - 文档切分优化
 - 问答优化
