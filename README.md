@@ -13,7 +13,8 @@
   - Ensemble: [使用RAG技术构建企业级文档问答系统：检索优化(4)BM25和混合检索](https://mp.weixin.qq.com/s/KFrSqG6mZb0TPgbHlgZ9dA)
   - Reranker：[使用RAG技术构建企业级文档问答系统：检索优化(5)常用Rerank对比](https://mp.weixin.qq.com/s/It50F1OmYOHNOs0KRFJ0Lg)
   - Reranker优化：[使用RAG技术构建企业级文档问答系统：检索优化(6) Rerank模型微调](https://mp.weixin.qq.com/s/1revSlQsum5uRF9U_OYRTA)
-  - HyDE
+  - HyDE：[使用RAG技术构建企业级文档问答系统：检索优化(7)HyDE](https://mp.weixin.qq.com/s/62UWBMV24RDePcGdYAZW_Q)
+  - Step Back
 - 文档解析优化
 - 文档切分优化
 - 问答优化
