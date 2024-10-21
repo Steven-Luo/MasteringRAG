@@ -19,6 +19,7 @@
   - [使用RAG技术构建企业级文档问答系统：检索优化(8)Step-Back Prompting](https://mp.weixin.qq.com/s/DxK9rUeG_4ZMvD2_oopWZg)
   - [使用RAG技术构建企业级文档问答系统：检索优化(9)Parent Document Retriever](https://mp.weixin.qq.com/s/hq-9E_vuRhZs7Ex_TcZUbA)
   - [使用RAG技术构建企业级文档问答系统：检索优化(10)上下文压缩](https://mp.weixin.qq.com/s/_sRv-xNuy-REWUiV3-_8CA)
+  - [使用RAG技术构建企业级文档问答系统：检索优化(11)上下文片段数调参](https://mp.weixin.qq.com/s/mEm1fdRW7igNK8bRJ-8heA)
 - 文档解析优化
 - 文档切分优化
 - 生成优化
