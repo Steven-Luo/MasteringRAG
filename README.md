@@ -30,7 +30,11 @@
 - 评估
   - [使用RAG技术构建企业级文档问答系统之使用TruLens进行评估](https://mp.weixin.qq.com/s/4SNaZT8sC6LOL-K8TkHgMw)
   - [使用RAG技术构建企业级文档问答系统之使用GPT4进行评估](https://mp.weixin.qq.com/s/332MeDhzAns_t8dvMOgnYQ)
-
+- 使用Flowise零代码构建RAG
+  - [使用Flowise零代码构建RAG(1)——基础流程](https://mp.weixin.qq.com/s/BPKwN4feV828aFL7NbgxHw)
+  - [使用Flowise零代码构建RAG(2)——HyDE](https://mp.weixin.qq.com/s/zq0Tuk5g_o5Ros1rnY2r5w)
+  - [使用Flowise零代码构建RAG(3)——Reciprocal Rank Fusion](https://mp.weixin.qq.com/s/jkmikh9b4okdWbeq1kGoyw)
+  
 ## Agent系列
 
 - [Langchain中使用Ollama提供的Qwen大模型进行Function Call实现天气查询、网络搜索](https://mp.weixin.qq.com/s/1UKb_Iii9-Hhp-EJTjjPpQ)
