@@ -23,6 +23,7 @@
   - [使用RAG技术构建企业级文档问答系统：检索优化(10)上下文压缩](https://mp.weixin.qq.com/s/_sRv-xNuy-REWUiV3-_8CA)
   - [使用RAG技术构建企业级文档问答系统：检索优化(11)上下文片段数调参](https://mp.weixin.qq.com/s/mEm1fdRW7igNK8bRJ-8heA)
   - [使用RAG技术构建企业级文档问答系统：检索优化(12)RAPTOR](https://mp.weixin.qq.com/s/4zHMb2uJrTXEbHpNtz5LHg)
+  - [使用RAG技术构建企业级文档问答系统：检索优化(13)Contextual Retrieval](https://mp.weixin.qq.com/s/umrgtJ6H2WL0p7HL_gcmkw)
 - 文档解析优化
 - 文档切分优化
 - 生成优化
