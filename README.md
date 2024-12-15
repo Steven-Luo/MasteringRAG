@@ -29,6 +29,7 @@
   - [解析(1)使用MinerU将PDF转换为Markdown](https://mp.weixin.qq.com/s/E35jqTA2t_5Sh35AIopvGw)
 - 文档切分优化
   - [切分(1)Markdown文档切分](https://mp.weixin.qq.com/s/epIIyv9lQDWDtZZXC4GE1w) 
+  - [切分(2)使用Embedding进行语义切分](https://mp.weixin.qq.com/s/saEr5vNLw-gu9xRUwJLqsg)
 - 生成优化
   - [生成优化(1)超长上下文LLM vs. RAG](https://mp.weixin.qq.com/s/n0RLhQNcWRPKNBJwaX-a2g)
 - 评估
