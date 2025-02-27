@@ -1,0 +1,62 @@
+Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd.,[2][3][4][a] doing business as DeepSeek,[b] is a Chinese artificial intelligence company that develops large language models (LLMs). Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer. DeepSeek was founded in July 2023 by High-Flyer co-founder Liang Wenfeng, who also serves as the CEO for both companies. The company launched an eponymous chatbot alongside its DeepSeek-R1 model in January 2025.
+
+Released under the MIT License, DeepSeek-R1 provides responses comparable to other contemporary large language models, such as OpenAI's GPT-4o and o1.[6] Its training cost is reported to be significantly lower than other LLMs. The company claims that it trained its V3 model for US$6 million compared to $100 million for OpenAI's GPT-4 in 2023,[7] and approximately one-tenth of the computing power used for Meta's comparable model, Llama 3.1.[7][8][9][10] DeepSeek's success against larger and more established rivals has been described as "upending AI".[11][12]
+
+DeepSeek's models are "open weight", which provides less freedom for modification than true open-source software.[13][14] The company reportedly recruits AI researchers from top Chinese universities[11] and hires from outside the computer science field to diversify its models' knowledge and abilities.[8]
+
+The low cost of training and running the language model was attributed to Chinese firms' lack of access to Nvidia chipsets, which were restricted by the US as part of the ongoing trade war between the two countries. This breakthrough in reducing expenses while increasing efficiency and maintaining the model's performance power and quality in the AI industry sent "shockwaves" through the market. It threatened the dominance of AI leaders like Nvidia and contributed to the largest drop in US stock market history, with Nvidia alone losing $600 billion in market value.[15][16]
+
+History
+Founding and early years (2016–2023)
+In February 2016, High-Flyer was co-founded by AI enthusiast Liang Wenfeng, who had been trading since the 2007–2008 financial crisis while attending Zhejiang University.[17]
+
+The company began stock-trading using a GPU-dependent deep learning model on 21 October 2016. Prior to this, they used CPU-based models, mainly linear models. Most trading was driven by AI by the end of 2017.[18]
+
+In 2019, Liang established High-Flyer as a hedge fund focused on developing and using AI trading algorithms. By 2021, High-Flyer exclusively used AI in trading,[19] often using Nvidia chips.[20]
+
+Initial computing cluster Fire-Flyer began construction in 2019 and finished in 2020, at a cost of 200 million yuan. It contained 1,100 GPUs interconnected at a rate of 200 Gbit/s. It was 'retired' after 1.5 years in operation.[18]
+
+In 2021, Liang began stockpiling Nvidia GPUs for an AI project.[20] According to 36Kr, Liang acquired 10,000 Nvidia A100 GPUs[21] before the United States restricted chip sales to China.[19] Computing cluster Fire-Flyer 2 began construction in 2021 with a budget of 1 billion yuan.[18]
+
+It was reported that in 2022, Fire-Flyer 2's capacity had been used at over 96%, totaling 56.74 million GPU hours. 27% was used to support scientific computing outside the company.[18]
+
+During 2022, Fire-Flyer 2 had 5000 PCIe A100 GPUs in 625 nodes, each containing 8 GPUs. At the time, they exclusively used PCIe instead of the DGX version of A100, since at the time the models they trained could fit within a single 40 GB GPU VRAM, so there was no need for the higher bandwidth of DGX (i.e. they required only data parallelism but not model parallelism).[22] Later, they incorporated NVLinks and NCCL, to train larger models that required model parallelism.[23][24]
+
+On 14 April 2023,[25] High-Flyer announced the start of an artificial general intelligence lab dedicated to research developing AI tools separate from High-Flyer's financial business.[26][27] Incorporated on 17 July 2023,[1] with High-Flyer as the investor and backer, the lab became its own company, DeepSeek.[19][28][27] Venture capital firms were reluctant to provide funding, as they considered it unlikely that the venture would be able to quickly generate an "exit".[19]
+
+On 16 May 2023, the company Beijing DeepSeek Artificial Intelligence Basic Technology Research Company, Limited. was incorporated. It was later taken under 100% control of Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd, which was incorporated 2 months after.[citation needed]
+
+Model releases (2023–present)
+On 2 November 2023, DeepSeek released its first model, DeepSeek Coder. On 29 November 2023, DeepSeek released the DeepSeek-LLM series of models.[29]: section 5  On 9 January 2024, they released 2 DeepSeek-MoE models (Base and Chat).[30] In April 2024, they released 3 DeepSeek-Math models: Base, Instruct, and RL.[31]
+
+DeepSeek-V2 was released in May 2024. In June 2024, the DeepSeek-Coder V2 series was released.[32]
+
+
+The DeepSeek login page shortly after a cyberattack that occurred following its January 20 launch
+DeepSeek V2.5 was released in September and updated in December 2024.[33] On 20 November 2024, DeepSeek-R1-Lite-Preview became accessible via API and chat.[34][35] In December 2024, the company released the base model DeepSeek-V3-Base and the chat model DeepSeek-V3.[23]
+
+On 20 January 2025, DeepSeek released the DeepSeek chatbot, based on the DeepSeek-R1 model, free of charge for iOS and Android; by 27 January, DeepSeek had surpassed ChatGPT as the most downloaded freeware app on the iOS App Store in the United States,[11] causing Nvidia's share price to drop by 18%.[36][37]
+
+Company operation
+Based in Hangzhou, Zhejiang, DeepSeek is owned and funded by the Chinese hedge fund High-Flyer co-founder Liang Wenfeng, who also serves as its CEO.
+
+As of May 2024, Liang owned 84% of DeepSeek through two shell corporations.[note 1][38]
+
+Strategy
+DeepSeek is focused on research and has not detailed plans for commercialization.[39]
+
+This allows its technology to avoid the most stringent provisions of China's AI regulations, such as requiring consumer-facing technology to comply with government controls on information.[8]
+
+DeepSeek's hiring preferences target technical abilities rather than work experience; most new hires are either recent university graduates or developers whose AI careers are less established.[27][8]
+
+Likewise, the company recruits individuals without any computer science background to help its technology understand more knowledge areas,[11] such as poetry and China's notoriously difficult college admissions exams (Gaokao).[8]
+
+Training framework
+High-Flyer/DeepSeek operates at least two computing clusters, Fire-Flyer (萤火一号) and Fire-Flyer 2 (萤火二号). Fire-Flyer 2 consists of co-designed software and hardware architecture. On the hardware side, Nvidia GPUs use 200 Gbps interconnects. The cluster is divided into two "zones", and the platform supports cross-zone tasks. The network topology was two fat trees, chosen for high bisection bandwidth. On the software side are:[24][18]
+
+3FS (Fire-Flyer File System): A distributed parallel file system, specifically designed for asynchronous random reads. It uses Direct I/O and RDMA Read. In contrast to standard Buffered I/O, Direct I/O does not cache data. Caching is useless for this case, since each data read is random, and isn't reused.[40]
+hfreduce: Library for asynchronous communication, originally designed to replace Nvidia Collective Communication Library (NCCL).[22] It is mainly used for allreduce, especially of gradients during backpropagation. It is asynchronously run on the CPU to avoid blocking kernels on the GPU.[24] It uses two-tree broadcast like NCCL.[22]
+hfai.nn: Software library of commonly used operators for neural network training, similar to torch.nn in PyTorch.
+HaiScale Distributed Data Parallel (DDP): Parallel training library that implements various forms of parallelism such as Data Parallelism (DP), Pipeline Parallelism (PP), Tensor Parallelism (TP), Experts Parallelism (EP), Fully Sharded Data Parallel (FSDP) and Zero Redundancy Optimizer (ZeRO). It is similar to PyTorch DDP, which uses NCCL on the backend.
+HAI Platform: Various applications such as task scheduling, fault handling, and disaster recovery.[41]
+As of 2022, Fire-Flyer 2 had 5000 PCIe A100 GPUs in 625 nodes, each containing 8 GPUs.[22] They later incorporated NVLinks and NCCL, to train larger models that required model parallelism.[23][24]

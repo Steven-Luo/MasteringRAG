@@ -1,0 +1,26 @@
+[project]
+name = "late_chunking"
+requires-python = "~=3.8"
+dependencies = [
+    "jupyterlab==4.2.5",
+    "transformers==4.43.4",
+    "torch==2.4.0",
+    "mteb==1.14.20",
+    "datasets==2.19.1",
+    "llama-index-embeddings-huggingface==0.3.1",
+    "llama-index==0.11.10",
+    "click==8.1.7",
+    "einops==0.6.1",
+]
+version = "0.0.0"
+
+[project.optional-dependencies]
+dev = [
+    "pytest~=7.3.2",
+    "black==23.3.0",
+    "isort==5.12.0",
+    "ruff==0.0.265",
+]
+
+[tool.setuptools.packages.find]
+include = ["chunked_pooling"]
