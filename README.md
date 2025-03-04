@@ -32,6 +32,7 @@
   - [切分(2)使用Embedding进行语义切分](https://mp.weixin.qq.com/s/saEr5vNLw-gu9xRUwJLqsg)
   - [切分(3)使用Jina API进行语义切分](https://mp.weixin.qq.com/s/4OaOJb2uFHOjIqBLs97y6Q)
   - [切分(4)Meta Chunking](https://mp.weixin.qq.com/s/dEeKdDRvaucCWnj-PR2zfQ)
+  - [切分(5)Late Chunking](https://mp.weixin.qq.com/s/PDl84dSd345wU3FUarAz0g)
 - 生成优化
   - [生成优化(1)超长上下文LLM vs. RAG](https://mp.weixin.qq.com/s/n0RLhQNcWRPKNBJwaX-a2g)
 - 新架构
