@@ -38,6 +38,7 @@
 - 新架构
   - [新架构(1)LightRAG](https://mp.weixin.qq.com/s/TVtCCeHEK-_raP8S05w2Rg)
   - [新架构(2)HippoRAG 2](https://mp.weixin.qq.com/s/dNO8ljAyfSN_iod3fUIKwg)
+  - [架构(3)借助DeepSeek R1的反思型RAG](https://mp.weixin.qq.com/s/3lJUQlA5GhwZvPPmnCrjrw)
 - 评估
   - [评估(1)TruLens进行评估](https://mp.weixin.qq.com/s/4SNaZT8sC6LOL-K8TkHgMw)
   - [评估(2)使用GPT4进行评估](https://mp.weixin.qq.com/s/332MeDhzAns_t8dvMOgnYQ)
